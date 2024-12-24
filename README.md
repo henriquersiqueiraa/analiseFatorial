@@ -1,0 +1,1 @@
+# analiseFatorial.py
