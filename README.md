@@ -1,4 +1,4 @@
-# analiseFatorial.py
+# analiseFatorial
 
 n = int(input("Digite um número inteiro\n"))
 
